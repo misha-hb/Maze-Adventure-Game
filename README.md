@@ -8,14 +8,12 @@ Guide Johnny through the maze and find the exit! Use your wits to locate keys th
 
 Controls
 
-
 Move: Use the arrow keys to move Johnny (Up, Down, Left, Right).
 Pause: Press Esc at any time to pause the game.
 
 
 
 Gameplay
-
 
 Search for keys to unlock doors and progress through the maze.
 The game ends when Johnny successfully reaches the exit.
@@ -24,6 +22,5 @@ Aim to complete the maze as quickly as possible and see how your best time ranks
 
 
 Leaderboard
-
 
 After finishing the maze, enter your name on the leaderboard.
